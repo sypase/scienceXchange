@@ -10,6 +10,7 @@ Welcome to ScienceXchange, an innovative web-based platform that fosters collabo
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
+- [Demo](#Screenshots)
 
 ## Overview
 
@@ -59,7 +60,8 @@ Aavash Sawd
 Swayam Maharjan
 Shailshree Shah
 
-##Screenshots
+## Screenshots
+
 <img width="1352" alt="Screenshot 2023-10-08 at 12 52 49 PM" src="https://github.com/sypase/scienceXchange/assets/67991569/977879ea-b1e6-4ee9-adaf-ad4609a43cda">
 
 
@@ -72,5 +74,5 @@ Shailshree Shah
 
 <img width="1352" alt="Screenshot 2023-10-08 at 1 00 16 PM" src="https://github.com/sypase/scienceXchange/assets/67991569/2303b693-d5e7-45c6-9fd8-d82ed19c983b">
 
-![Uploading Screenshot 2023-10-08 at 12.59.41 PM.png…]()
+
 
