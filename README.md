@@ -13,7 +13,7 @@ Welcome to ScienceXchange, an innovative web-based platform that fosters collabo
 - [Demo](#Screenshots)
 
 ## Tech Stack
-![image](https://github.com/sypase/scienceXchange/assets/67991569/1c50e229-44e6-4d86-a79c-483b9e638efc)
+![image](https://github.com/sypase/scienceXchange/assets/67991569/97ac92cf-7cbe-495e-8f3e-a92b2d41a5a4)
 
 
 ## Overview
