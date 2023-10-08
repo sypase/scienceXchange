@@ -74,5 +74,8 @@ Shailshree Shah
 
 <img width="1352" alt="Screenshot 2023-10-08 at 1 00 16 PM" src="https://github.com/sypase/scienceXchange/assets/67991569/2303b693-d5e7-45c6-9fd8-d82ed19c983b">
 
+<img width="1352" alt="Screenshot 2023-10-08 at 1 05 49 PM" src="https://github.com/sypase/scienceXchange/assets/67991569/4183e985-0965-475d-bb6a-cf212e62019b">
+
+<img width="1352" alt="Screenshot 2023-10-08 at 1 06 08 PM" src="https://github.com/sypase/scienceXchange/assets/67991569/dda0ce40-e2cd-4169-86ba-514be87fb045">
 
 
