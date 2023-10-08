@@ -2,7 +2,7 @@
 
 Welcome to ScienceXchange, an innovative web-based platform that fosters collaboration, promotes open science, and connects researchers and scientists from diverse fields. This README provides an overview of the project, how to set it up, and how to get involved.
 
-![ScienceXchange Demo](link_to_demo_screenshot.png)
+![ScienceXchange Demo](https://i.ibb.co/3WdgJW8/science-x-change-low-resolution-color--1-1.jpg)
 
 ## Table of Contents
 
