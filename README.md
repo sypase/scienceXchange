@@ -50,3 +50,13 @@ To set up and run ScienceXchange on your local machine, follow these steps:
    cd ../server
    npm install
 
+## Contribute
+
+Sunab Ranjitkar
+Joyash Shrestha
+Aarjan Rajlawot
+Aavash Sawd
+Swayam Maharjan
+Shailshree Shah
+
+
