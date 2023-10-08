@@ -59,4 +59,18 @@ Aavash Sawd
 Swayam Maharjan
 Shailshree Shah
 
+##Screenshots
+<img width="1352" alt="Screenshot 2023-10-08 at 12 52 49 PM" src="https://github.com/sypase/scienceXchange/assets/67991569/977879ea-b1e6-4ee9-adaf-ad4609a43cda">
+
+
+<img width="1352" alt="Screenshot 2023-10-08 at 12 58 51 PM" src="https://github.com/sypase/scienceXchange/assets/67991569/7f4f8b20-d75c-4fa6-8d4a-4b7964c7bda1">
+
+
+<img width="1352" alt="Screenshot 2023-10-08 at 12 59 22 PM" src="https://github.com/sypase/scienceXchange/assets/67991569/22806fa4-5495-4a33-8140-e51538cc4869">
+
+<img width="1352" alt="Screenshot 2023-10-08 at 12 59 29 PM" src="https://github.com/sypase/scienceXchange/assets/67991569/a053897e-3f0c-4707-8588-02950db381f2">
+
+<img width="1352" alt="Screenshot 2023-10-08 at 1 00 16 PM" src="https://github.com/sypase/scienceXchange/assets/67991569/2303b693-d5e7-45c6-9fd8-d82ed19c983b">
+
+![Uploading Screenshot 2023-10-08 at 12.59.41 PM.png…]()
 
