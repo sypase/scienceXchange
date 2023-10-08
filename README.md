@@ -45,3 +45,8 @@ To set up and run ScienceXchange on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/sciencexchange.git
+   cd client
+   npm install --force
+   cd ../server
+   npm install
+
