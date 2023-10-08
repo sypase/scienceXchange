@@ -12,6 +12,10 @@ Welcome to ScienceXchange, an innovative web-based platform that fosters collabo
 - [Contributing](#contributing)
 - [Demo](#Screenshots)
 
+## Tech Stack
+![image](https://github.com/sypase/scienceXchange/assets/67991569/1c50e229-44e6-4d86-a79c-483b9e638efc)
+
+
 ## Overview
 
 ScienceXchange is a platform designed to advance open science principles by providing researchers and innovators with a space to collaborate, share ideas, and work on transparent research projects. It acts as a social network for the scientific community, allowing users to create profiles, list projects, find funding, share data, and much more.
